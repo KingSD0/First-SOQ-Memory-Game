@@ -107,9 +107,6 @@ function resetBoard() {
 
 cards.forEach(card => card.addEventListener('click', flipCard));
 
-var i = -45;
-i = Math.max(0, i);
-console.log(i); //0
 
   //do {
     //go()
