@@ -1,2 +1,2 @@
 # SOQ-Opdracht
-![Memory fail](https://github.com/KingSD0/SOQ-Memory-Game-F/assets/93257057/8a263401-a7dd-4249-9e0c-3d5651e3053b)
+![Memory fail](https://github.com/KingSD0/First-SOQ-Memory-Game/assets/93257057/bc9a686c-7dc2-4bfe-82fe-1820f0222f4b)
